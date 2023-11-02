@@ -233,19 +233,3 @@ def armstrong_numbers(n):
             armstrong.append(i)
 
     return armstrong
-
-import sys
-#print(triangular_numbers(10))
-print(sylvester_sequence(4))
-print(is_kaprekar(13))
-#print(padovan_sequence(7))
-sys.exit()
-print(is_markov_triplet(1,2,6))
-print(tribonaci_sequence(20))
-print(armstrong_numbers(10000))
-print(factorial(5))
-print(powers_of_x(2,5))
-print(palindromes(100))
-print(star_numbers(4))
-print(fermat_numbers(15))
-print(is_pythagorean_triplet(3,6,4))
