@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/number_sequence/__init__.py
+src/number_sequence/number_series.py
+src/number_sequence.egg-info/PKG-INFO
+src/number_sequence.egg-info/SOURCES.txt
+src/number_sequence.egg-info/dependency_links.txt
+src/number_sequence.egg-info/top_level.txt
